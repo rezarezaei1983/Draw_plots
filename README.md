@@ -1,0 +1,1 @@
+The script named 'plot_CDF_BoxWisker_StackedBar.py' draws the CDF, box-whisker, and stacked-bar plots for the pickled outputs of the atmospheric models. The other script draws the wind rose plot using the outputs from the WRF model.
